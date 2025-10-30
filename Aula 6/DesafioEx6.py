@@ -1,4 +1,4 @@
-id = 0
+id = 0 
 nome = ""
 salario = 0.0
 brasileiro = False
