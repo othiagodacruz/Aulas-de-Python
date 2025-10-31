@@ -2,10 +2,10 @@ minhalista = []
 i = 1
 
 print("Seja Bem Vindo!")
-print("Vamos montar uma lista?!")
-print("Basta você adicionar números inteiros")
-print("E quando preferir parar, digite 0")
-print("Siga informando conforme eu solicitar!")
+print("Vamos montar uma lista?")
+print("Basta você adicionar alguns números inteiros")
+print("E quando preferir parar com a sequência, digite 0")
+print("Então siga informando conforme os passos solicitados a seguir!")
 
 while i != 0:
     dado = int(input("Digite um número inteiro: "))
