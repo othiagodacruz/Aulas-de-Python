@@ -2,7 +2,7 @@ v = []
 s = 0
 
 for i in range(5):
-    dado = int(input("Digite um número inteiro: "))
+    dado = int(input("Digite um número inteiro a seguir: "))
     v.append(dado)
     s += dado
 
