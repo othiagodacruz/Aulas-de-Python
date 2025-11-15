@@ -1,0 +1,13 @@
+Aula 1 - HelloWord com PRINT
+
+Aula 2 - Saida de dados com FSTRINGS do número 10 como valor inteiro, binário e o valor de PÍ completo e com casas decimais limitadas
+
+Aula 3 - Usando a função PRINT para imprimir textos e dados na tela, função de imprimir e continuar na mesma linha com END=''
+FLOAT são números reais que podem possuir casas decimais, tem comandos para limitar os números após a virgula ou usar notação cientifica
+Data e Tempo com %...
+Comandos para usar no print
+opção INPUT
+
+Aula 4 - Usando PRINT e FSTRINGS
+
+Aula 5 - Usando PRINT e INPUT para receber dados do usúario
