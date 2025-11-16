@@ -10,4 +10,19 @@ opção INPUT
 
 Aula 4 - Usando PRINT e FSTRINGS
 
-Aula 5 - Usando PRINT e INPUT para receber dados do usúario
+Aula 5 - Usando PRINT e INPUT para receber dados do usuario
+
+Aula 6 - Usando PRINT para interagir com o usuario e INPUT para captar os dados, validando IF e ELSE como se você é brasileiro ou não
+
+Aula 7 - Usando INPUT na variavel para preencher os valores de A e B como primeiro e segundo numero, após isso, efetuar Soma, Subtração, Multiplicação e Divisão com os dois números fornecidos
+Outros dois exercicios com o Conteúdo do Variável "Dado" incrementando e decrementando, multiplicando e dividindo e imprimindo na tela com FSTRINGS
+
+Aula 8 - Reforcando exercicios da Aula 7
+
+Aula 9 - Palavras Reservadas em Phyton (não podemos usar como variável...)
+
+Aula 10 - Usando IMPORT MATH e IMPORT OS, são duas bibliotecas diferentes já reservadas no VSCode e com comandos extras que servem em Phyton
+
+Aula 11 - Usando INPUT para receber um dado como nota de avaliação e validando uma condição com IF e IF para aprovado ou reprovado ou exame
+
+Aula 12 - Usando a mesma ideia da aula 11 mas com IF e ELSE
