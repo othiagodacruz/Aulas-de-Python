@@ -26,3 +26,17 @@ Aula 10 - Usando IMPORT MATH e IMPORT OS, são duas bibliotecas diferentes já r
 Aula 11 - Usando INPUT para receber um dado como nota de avaliação e validando uma condição com IF e IF para aprovado ou reprovado ou exame
 
 Aula 12 - Usando a mesma ideia da aula 11 mas com IF e ELSE
+
+Aula 13 - Aprendendo sobre IF e ELIF, é como se fosse uma extenção do IF, aplicando mais uma condição até chegar no ELSE (A diferença de um para o outro são o número de possibilidades, sendo IF e ELSE apenas verdadeiro e falso...
+
+Aula 14 - Aprendendo sobre o comando WHILE (Condição que testa a variável até um determinado valor ou igual a um determinado valor especifico)
+
+Aula 15 - Explicou sobre a opção FOR e RANGE, opção que é referente a sequencias de números reais, fizemos a opção de imprimir numeros em SEQUENCIA na tela
+
+Aula 16 - Revisando a impressão de números em sequência e dessa vez possibilitando a parada ou continuidade da contagem e impressão na tela com opção de receber dados do cliente pelo INPUT dentro do FOR com IF e ELSE e Resposta em "sim" ou "não"
+
+Aula 17 - Criando uma LISTA com a variável "minhalista = []" e usando WHILE para receber os dados da lista pelo cliente até que ele diga que quer parar digitando "0" como numeral dentro da opção de WHILE que serve como um condicionador/filtro de dados, comando BREAK para parar e comando ".append()" no final do While, assim repetindo o LOOP e ao finalizar, imprime a lista e depois informa a quantidade de numeros recebidos, o maior e o menor
+
+Aula 18 - Aprendendo sobre MATRIZ, é como se fossem listas dentro de LISTAS, só muda como solicitar e organizar os dados, mas os comandos são os mesmos, usei FOR para sequênciar o número de linhas e dentro disso foi usado FOR novamente para a quantia de colunas, abaixo disso, solicitamos os dados com INPUT, penduramos na LINHA atual com ".append()" e voltamos para o inicio pulando para a próxima LINHA, usa o mesmo LOOP em FOR condicionando as COLUNAS e LINHAS da MATRIZ, após isso, imprime a MATRIZ de maneira organizada, informa que vai analisar os dados e fornece os números MAIORES e MENORES entregues pelo cliente
+
+Aula 19 - 
