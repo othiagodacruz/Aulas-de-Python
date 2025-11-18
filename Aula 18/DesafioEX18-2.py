@@ -13,7 +13,7 @@ for i in range(3): #pois são 3 linhas
     matriz.append(linha)
 
 print("\nPerfeito, a Matriz foi preenchida!")
-print("Ela ficou da seguinte maneira:")
+print("E ela ficou da seguinte maneira:")
 for linha in matriz:
     print(linha)
 
