@@ -1,0 +1,54 @@
+PARA QUE SERVE CADA OPERAÇÃO!!
+
+LEN()
+Conta os Caracteres de uma String
+
+UPPER()
+Deixa toda a String em Maiusculo
+
+LOWER
+Deixa toda a String em Minusculo
+
+STRIP()
+Remove Caracteres Indesejados de uma Determinada String
+
+LSTRIP()
+Remove Caracteres Indesejados de uma Determinada String
+Da seleção até o inicio (Lado Esquerdo)
+
+RSTRIPS()
+Remove Caracteres Indesejados de uma Determinada String
+Da seleção até o fim (Lado Direito)
+
+REPLACE(<str1>,<str2>)
+str1 será substituido pelo str2 dentro de uma String
+
+SPLIT(<separador>)
+Vai separar uma String baseado em algum caractere de Separação
+
+JOIN(<iterável>)
+Junta itens/strings com um separador, seja ele espaço, virgula, ponto, traço...
+
+STARTSWITH(<prefixo>)
+Serve para filtrar Strings por um inicio em determinado texto ou letra, é complexo
+
+ENDSWITH(<sufixo>)
+Serve para filtrar Strings pelo final dela em determinado texto ou letra, é complexo
+
+FIND(<substring>)
+Localizar determinadas palavras nas Strings
+
+COUNT(<substring>)
+Serve para contar quantas vezes o caractere/letra/texto apareceu em determinadas ou determinada string
+
+ISALPHA()
+Confere se é tudo caractere Alfabetico/Letras
+
+ISDIGIT()
+Confere se todos os caracteres são Digitos Numerais
+
+ISALNUM()
+Confere se todos os caractere são Alfanumericos (Letras ou Numeros)
+
+ISNUMERIC()
+Confere se todos os caracteres são Numéricos
